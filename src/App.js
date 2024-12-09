@@ -101,7 +101,9 @@ function DrawerAppBar(props) {
 
         Com base nas melhores práticas de mercado, trabalhamos com sistemas especialistas que otimizam processos, potencializam resultados e promovem o crescimento sustentável das empresas. Na Roper-S, acreditamos que a tecnologia é um motor de transformação, e nosso compromisso é criar ferramentas que gerem impacto positivo e diferencial competitivo.  
         <h4>Descubra como podemos colaborar para o sucesso do seu negócio.</h4>  
-        Conte conosco para desenvolver soluções que realmente fazem a diferença!  
+        Conte conosco para desenvolver soluções que realmente fazem a diferença! 
+        <p>andre@roper-s.com</p>
+
         </Typography>
       </Box>
     </Box>
